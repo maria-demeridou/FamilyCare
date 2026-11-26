@@ -15,20 +15,20 @@
 
 ## 2. Roles & Permissions
 
-| Operation                        | OWNER | PARENT  | CAREGIVER |
-| -------------------------------- | :---: | :-----: | :-------: |
-| View family information          |  Yes  |   Yes   |    Yes    |
-| Manage family settings           |  Yes  |   No    |    No     |
-| Invite members                   |  Yes  |   Yes   |    No     |
-| Manage membership                |  Yes  | Limited |    No     |
-| Create and update child profiles |  Yes  |   Yes   |    No     |
-| Archive and restore children     |  Yes  |   Yes   |    No     |
-| Create and manage care tasks     |  Yes  |   Yes   |    No     |
-| Assign and reassign tasks        |  Yes  |   Yes   |    No     |
-| View assigned tasks              |  Yes  |   Yes   |    Yes    |
-| Complete assigned tasks          |  Yes  |   Yes   |    Yes    |
-| Cancel tasks                     |  Yes  |   Yes   |    No     |
-| View activity history            |  Yes  |   Yes   |    Yes    |
+| Operation                        | OWNER | PARENT | CAREGIVER |
+| -------------------------------- | :---: |:------:| :-------: |
+| View family information          |  Yes  |  Yes   |    Yes    |
+| Manage family settings           |  Yes  |   No   |    No     |
+| Invite members                   |  Yes  |  Yes   |    No     |
+| Manage membership                |  Yes  |   No   |    No     |
+| Create and update child profiles |  Yes  |  Yes   |    No     |
+| Archive and restore children     |  Yes  |  Yes   |    No     |
+| Create and manage care tasks     |  Yes  |  Yes   |    No     |
+| Assign and reassign tasks        |  Yes  |  Yes   |    No     |
+| View assigned tasks              |  Yes  |  Yes   |    Yes    |
+| Complete assigned tasks          |  Yes  |  Yes   |    Yes    |
+| Cancel tasks                     |  Yes  |  Yes   |    No     |
+| View activity history            |  Yes  |  Yes   |    Yes    |
 
 Additional rules:
 
